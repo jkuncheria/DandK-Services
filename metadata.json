@@ -1,0 +1,7 @@
+{
+  "name": "D&K Services",
+  "description": "Professional home services including resurfacing, reglazing, countertops, garages, and floors. Expert resurfacing and reglazing services delivering quality craftsmanship, fast turnaround times, and transparent pricing. Transform your home surfaces at a fraction of replacement cost. Integrated AI Assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
